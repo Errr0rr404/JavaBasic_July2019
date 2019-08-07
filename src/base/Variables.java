@@ -1,6 +1,10 @@
 package base;
 
 public class Variables {
+	
+	// test git 
+	
+	
 	//default constructor is always there
 	public Variables() {
 		
