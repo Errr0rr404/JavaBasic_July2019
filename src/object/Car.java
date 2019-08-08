@@ -8,4 +8,6 @@ public class Car {
 	public String brand = "BMW";
 	public String color = "Black";
 	
+	public String engine ;
+	
 }

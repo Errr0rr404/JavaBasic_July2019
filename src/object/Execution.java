@@ -9,8 +9,15 @@ public class Execution {
 	public static void main(String[] args) {
 		//Object Creation
 		Laptop laptop = new Laptop();
-		Car car = new Car();
 		//desired_class_name  referrence_Variable = new(keyword)  constructor() { name of the class};
+		Car car = new Car();
+		System.out.println(laptop.brand);
+		car.engine="v6";
+		car.engine="v8";
+		System.out.println("engine = "+car.engine);
+		
+		
+		
 
 		System.out.println(laptop.brand+laptop.model+laptop.production_year);
 		
