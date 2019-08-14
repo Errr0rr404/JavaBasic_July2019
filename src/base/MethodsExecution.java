@@ -20,6 +20,7 @@ public class MethodsExecution {
 		int staticVariable = Methods.testStaticMethodReturn();
 		System.out.println(staticVariable);
 		
+		
 		methods.math(10, 20);
 		
 		//Parameterized 

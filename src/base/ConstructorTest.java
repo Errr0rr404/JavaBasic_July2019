@@ -7,7 +7,7 @@ public class ConstructorTest {
 	}
 	
 	//Customized Constructors
-	int year;
+	public static int year;
 	String name;
 	
 	public ConstructorTest(int year) {
